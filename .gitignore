@@ -3,6 +3,7 @@
 *~
 *.swp
 *.swo
+*.kate-swp
 
 # dependencies
 /node_modules
